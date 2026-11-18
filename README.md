@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Kareem Fahmy 👋
 
-<!--
-**KareemFahmy2007/KareemFahmy2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Artificial Intelligence Student
 
-Here are some ideas to get you started:
+💻 I'm a C++ programmer with knowledge of Object-Oriented Programming (OOP).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Currently learning Data Structures & Algorithms.
+- 💡 Interested in Software Development and Problem Solving.
+- 🧠 Always eager to learn new technologies and improve my skills.
+- 🎯 Working towards becoming a professional Software Developer.
+
+### 🛠️ Languages & Technologies
+- C++
+- Object-Oriented Programming (OOP)
+- Data Structures (Learning)
+- Git & GitHub
+
+### 📫 Let's Connect
+- GitHub: [@KareemFahmy2007](https://github.com/KareemFahmy2007)
+
+---
+⭐ Thanks for visiting my profile!
